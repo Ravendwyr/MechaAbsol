@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussion
+    url: https://github.com/Ravendwyr/MechaAbsol/discussions
+    about: Start a discussion without the need to open a support ticket.
+  - name: Mastodon
+    url: https://gamepad.club/@ravendwyr
+    about: Send a message on Mastodon.
+  - name: Discord
+    url: https://top.gg/servers/299308204393889802
+    about: Send a message on Discord.

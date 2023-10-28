@@ -25,7 +25,7 @@
   "dependencies": {
     "dotenv": "16.3.1",
     "graceful-fs": "4.2.11",
-    "node-fetch-retry": "1.1.2",
+    "node-fetch-retry": "2.0.1",
     "node-json-db": "2.3.0",
     "tmi.js": "1.8.5",
     "ws": "8.14.2"

@@ -28,7 +28,7 @@
     "node-fetch-retry": "1.1.2",
     "node-json-db": "2.3.0",
     "tmi.js": "1.8.5",
-    "ws": "8.14.2"
+    "ws": "8.15.1"
   },
   "optionalDependencies": {
     "bufferutil": "4.0.8",

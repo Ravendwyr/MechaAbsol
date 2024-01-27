@@ -23,7 +23,7 @@
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   },
   "dependencies": {
-    "dotenv": "16.3.2",
+    "dotenv": "16.4.1",
     "graceful-fs": "4.2.11",
     "node-fetch-retry": "1.1.2",
     "node-json-db": "2.3.0",
